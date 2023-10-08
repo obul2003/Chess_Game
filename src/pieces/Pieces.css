@@ -1,0 +1,20 @@
+.Square {
+  font-size: 150%;
+  box-shadow: none;
+  display: inline-block;
+  text-align: center;
+}
+
+.white {
+  background-color: #b5915f;
+}
+.black {
+  background-color: #441a03;
+}
+
+.available {
+  background-color: #a9dfbf;
+}
+
+.WaitForUse {
+}
